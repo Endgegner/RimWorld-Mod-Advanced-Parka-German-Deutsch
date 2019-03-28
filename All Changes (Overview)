@@ -1,0 +1,61 @@
+All Changes (Overview)
+
+Defs:
+
+### Civil Parka Model 1:
+
+Label: Civil Parka or Winter Parka (ENG) / Bürgerlicher Wintermantel (Translation in German)
+Description: A fancy winter parka for staying warm in even the coldest of temperatures.
+    
+    <equippedStatOffsets>
+			<SocialImpact>+0.25</SocialImpact>
+		</equippedStatOffsets>
+    
+### Civil Parka Model 2:
+
+Name Suggestion: Bomberjacket? (ENG) / Bombejacke (Translation in German)
+Description: +Allows the wearer a certain freedom in his movement.
+
+https://pitbull.de/wp-content/uploads/2017/06/ma_04.jpg (the word refers to this jacket in german, hooligans use to wear it)
+
+		<equippedStatOffsets>
+			<MeleeHitChance>+0.15</MeleeHitChance>
+			<MeleeDodgeChance>+0.15</MeleeDodgeChance>
+		</equippedStatOffsets>
+    
+### Worker Parka Model 1:
+
+Label: Worker Parka or Industrial Anorak (ENG) / Industrie-Anorak (Translation in German)
+Description: An industrial parka with deep pockets designed for staying warm during work in even the coldest of temperatures.
+    
+    <equippedStatOffsets>
+      <WorkSpeedGlobal>+0.1</WorkSpeedGlobal>
+			<MiningSpeed>+0.1</MiningSpeed>
+			<ConstructionSpeed>+0.1</ConstructionSpeed>
+    </equippedStatOffsets>
+
+### Military Parka Model 1:
+
+Label: Soldier Raincoat (ENG) / Soldaten-Schutzmantel (Translation in German)
+Description: A big Raincoat for soldiers to the stand the ground even in the coldest of temperatures.
+    
+		<equippedStatOffsets>
+			<MentalBreakThreshold>-0.1</MentalBreakThreshold>
+			<MoveSpeed>-0.05</MoveSpeed>
+			<HuntingStealth>+0.20</HuntingStealth>
+			<CarryingCapacity>+15</CarryingCapacity>
+		</equippedStatOffsets>
+
+### Military Parka Model 2:
+
+Label: Military Parka (ENG) / Militär-Allzweckweste (Translation in German)
+Description: A thick military Parka with deep pockets for staying warm in even the coldest of temperatures and carry the burden.
+
+		<equippedStatOffsets>
+			<MentalBreakThreshold>-0.05</MentalBreakThreshold>
+			<MoveSpeed>-0.05</MoveSpeed>
+			<WorkSpeedGlobal>0.05</WorkSpeedGlobal>
+			<SocialImpact>+0.05</SocialImpact>
+			<CarryingCapacity>+25</CarryingCapacity>
+			<MeleeDodgeChance>+0.05</MeleeDodgeChance>
+		</equippedStatOffsets>
