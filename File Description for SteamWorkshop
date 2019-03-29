@@ -8,7 +8,12 @@ This mod add new type of Parka :
 
 Each Parka add some buff to pawn :
 
-- Civil : No buff
+- Civil :
+
+Social Impact +0.25
+
+MeleeHitChance +0.15
+MeleeDodgeChance +0.15
 
 - Worker :
 
@@ -18,14 +23,18 @@ ConstructionSpeed +0.1
 
 - Military :
 
-MentalBreakThreshold -0.05
-MoveSpeed -0.1
-WorkSpeedGlobal 0.05
-SocialImpact +10.00
-CarryingCapacity +0.1
-MeleeHitChance +0.05
-MeleeDodgeChance +0.05
+MentalBreakThreshold -0.1
+MoveSpeed -0.05
+HuntingStealth +20
+CarryingCapacity +15
 
+MentalBreakThreshold -0.05
+MoveSpeed -0.05
+WorkSpeedGlobal 0.05
+SocialImpact +0.05
+CarryingCapacity +25
+MeleeDodgeChance +0.05
+  
 You will need one research for Civil and Worker Parka and another for military one.
 Thats it ! Hope you enjoy.
 
