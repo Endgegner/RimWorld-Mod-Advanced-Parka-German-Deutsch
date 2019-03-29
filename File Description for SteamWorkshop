@@ -1,0 +1,39 @@
+
+### File Description for SteamWorkshop
+
+This mod add new type of Parka :
+- Civil Parka ( 2 Models )
+- Military Parka ( 2 Models )
+- Worker Parka
+
+Each Parka add some buff to pawn :
+
+- Civil : No buff
+
+- Worker :
+
+WorkSpeedGlobal +0.1
+MiningSpeed +0.1
+ConstructionSpeed +0.1
+
+- Military :
+
+MentalBreakThreshold -0.05
+MoveSpeed -0.1
+WorkSpeedGlobal 0.05
+SocialImpact +10.00
+CarryingCapacity +0.1
+MeleeHitChance +0.05
+MeleeDodgeChance +0.05
+
+You will need one research for Civil and Worker Parka and another for military one.
+Thats it ! Hope you enjoy.
+
+--------------
+
+UPDATED! v1.3
+
+- slightly different stats (vanilla aimed)
+- added german translation
+
+Forum link : https://ludeon.com/forums/index.php?topic=48215.msg455119#msg455119
