@@ -3,7 +3,7 @@ Deutsch Übersetzung des RimWorld-Mods Advanced Parka  (GER/DE Translation)
 
 Wurde bereits vom Author in den existierenden Mod eingebettet!
 
-# License
+<b>License</b>
 - Ask for permission before you redistribute any files.
 - Contributions are more as welcome. Make RimWorld a better place!
 
