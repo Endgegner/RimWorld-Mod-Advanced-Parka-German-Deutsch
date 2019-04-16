@@ -1,6 +1,8 @@
 # RimWorld-Mod-Advanced-Parka-German-Deutsch
 Deutsch Übersetzung des RimWorld-Mods Advanced Parka  (GER/DE Translation)
 
+Wurde bereits vom Author in den Mod inkludiert!
+
 # License
 - You may change, edit, modify the code and even take this whole thing as a template for your mods.
 - Just ask for permission though before you redistribute any files.
